@@ -1,0 +1,14 @@
+# Projet Python/FastAPI
+.old/
+.pytest_cache/
+.venv/
+__pycache__/
+.vscode/
+.env
+
+# Dossiers d’export/documentation générés
+README_APP.md
+README_JSONFLOW.md
+
+# Pour VS Code
+.vscode/
