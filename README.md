@@ -1,4 +1,6 @@
 # 🧩 JSONFlow – API REST générique de validation et documentation JSON
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Description
 
